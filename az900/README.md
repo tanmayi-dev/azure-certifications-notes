@@ -428,6 +428,116 @@
 
 ---
 
+### Which of the following is a serverless solution that allows you to write less code, maintain less infrastructure, and save on costs.?
+
+- [ ] Azure DevOps
+- [ ] Azure App Service
+- [x] Azure Functions
+- [ ] Azure Logic Apps
+
+
+<details>
+  <summary>Explanation</summary>
+  <br/>
+  <p><b>Reference : <a href="https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview">https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview</a></b></p>
+  <br/>
+  <br/>
+  <table>
+        <tr>
+            <th>Azure DevOps</th>
+        </tr>
+        <tr>
+            <td>Azure DevOps is a set of services for teams to plan, build, and ship software across a variety of platforms. While it is a valuable tool for managing the software development lifecycle, it is not a serverless solution that allows you to write less code, maintain less infrastructure, and save on costs.</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>Azure App Service</th>
+        </tr>
+        <tr>
+            <td>Azure App Service is a fully managed platform for building, deploying, and scaling web apps. While it offers a platform for hosting web applications, it is not a serverless solution that allows you to write less code, maintain less infrastructure, and save on costs compared to Azure Functions.</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>Azure Functions</th>
+        </tr>
+        <tr>
+            <td>Azure Functions is a serverless compute service that allows you to run event-triggered code without having to explicitly provision or manage infrastructure. It is designed to help you write less code, maintain less infrastructure, and save on costs by only paying for the resources used during execution.</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>Azure Logic Apps</th>
+        </tr>
+        <tr>
+            <td>Azure Logic Apps is a cloud-based service that helps you automate and orchestrate tasks, business processes, and workflows when you need to integrate apps, data, systems, and services across enterprises or organizations. While it provides automation capabilities, it is not specifically designed to be a serverless solution for writing less code and maintaining less infrastructure.</td>
+        </tr>
+    </table>
+  <table>
+        <tr>
+            <th>Overall explanation</th>
+        </tr>
+        <tr>
+            <td>
+              <p><b>Azure Functions</b> allows you to run small pieces of code (called "functions") without worrying about application infrastructure. With Azure Functions, the cloud infrastructure provides all the up-to-date servers you need to keep your application running at scale.</p>
+              <p>A function is <b>"triggered"</b> by a specific type of event. <a href="https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings">Supported triggers</a> include responding to changes in data, responding to messages, running on a schedule, or as the result of an HTTP request.</p>
+              <p>Few of the features of Azure Functions are:</p>
+              <img src="https://github.com/user-attachments/assets/692f5bd9-9631-434d-ac4b-a7c72654fc4e" />
+            </td>
+        </tr>
+    </table>
+</details>
+
+---
+
+### Yes or No: Permissions are by default inherited by all resources residing in a resource group.
+
+- [ ] No
+- [x] Yes
+
+
+<details>
+  <summary>Explanation</summary>
+  <br/>
+  <p><b>Reference : </b><a href="https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview">https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview</a></p>
+  <br/>
+  <br/>
+  <table>
+        <tr>
+            <th>No</th>
+        </tr>
+        <tr>
+            <td>No explanation is provided for this choice since it is not the correct answer.</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>
+              <p>correct answer</p>
+              <p>Yes</p>
+            </th>
+        </tr>
+        <tr>
+            <td>Yes, permissions are by default inherited by all resources residing in a resource group in Azure. This means that when you assign permissions to a resource group, all resources within that group inherit those permissions unless explicitly overridden at the resource level.</td>
+        </tr>
+    </table>
+      <table>
+        <tr>
+            <th>Overall explanation</th>
+        </tr>
+        <tr>
+            <td>
+              <p>A resource group can be used to scope access control for administrative actions. By default, permissions set at the resource level <b>are inherited</b> by the resources in the resource group.</p>
+              <p>More info about resources :</p>
+              <img src="https://github.com/user-attachments/assets/81111a37-87e5-4057-93bd-904ab0a125fe" />
+            </td>
+        </tr>
+    </table>
+</details>
+
+---
+
 
 ## Domain : Describe Azure management and governance
 
@@ -1003,6 +1113,205 @@
 
 ---
 
+### You've been asked by senior management to prepare a presentation describing not only the benefits, but also the estimated cost savings you can realize by migrating your workloads to Azure. As the lead architect, which service would you use for these calculations?
+
+- [ ] Azure Cost Management
+- [ ] Azure Advisor
+- [ ] Azure Monitor
+- [x] Azure TCO calculator
+
+
+<details>
+  <summary>Explanation</summary>
+  <br/>
+  <p><b>Reference: </b><a href="https://azure.microsoft.com/en-in/pricing/tco/calculator/">https://azure.microsoft.com/en-in/pricing/tco/calculator/</a></p>
+  <br/>
+  <br/>
+  <table>
+        <tr>
+            <th>Azure Cost Management</th>
+        </tr>
+        <tr>
+            <td>Azure Cost Management is a service that helps you track and optimize your Azure spending. While it provides valuable insights into your current usage and costs, it is not specifically designed for calculating the estimated cost savings of migrating workloads to Azure.</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>Azure Advisor</th>
+        </tr>
+        <tr>
+            <td>Azure Advisor is a service that provides personalized recommendations to help you optimize your Azure resources for performance, security, and cost. While it can help you make cost-effective decisions about your Azure resources, it is not the primary tool for calculating the estimated cost savings of migrating workloads to Azure.</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>Azure Monitor</th>
+        </tr>
+        <tr>
+            <td>Azure Monitor is a service that helps you monitor the performance and availability of your applications and services running on Azure. While it provides valuable insights into the health of your resources, it is not designed for calculating cost savings or estimating the financial benefits of migrating workloads to Azure.</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>
+              <p>correct answer</p>
+              <p>Azure TCO calculator</p>
+            </th>
+        </tr>
+        <tr>
+            <td>The Azure TCO (Total Cost of Ownership) calculator is specifically designed to help organizations estimate the cost savings and benefits of migrating their workloads to Azure. It provides a detailed breakdown of the costs associated with running workloads on-premises versus in the cloud, allowing you to make informed decisions about migration.</td>
+        </tr>
+    </table>
+  <table>
+        <tr>
+            <th>Overall explanation</th>
+        </tr>
+        <tr>
+            <td>
+              <p>For users wishing to adopt cloud services, Azure provides a web-based TCO Calculator. You can use this calculator to estimate the <b>costs of migrating your data and applications to Azure and predict potential savings.</b></p>
+              <img src="https://github.com/user-attachments/assets/187bc32c-50f7-4a88-956d-71cb7bdf9a19"/>
+            </td>
+        </tr>
+    </table>
+</details>
+
+---
+
+### One of the teams in your company is looking for a solution for collecting, analyzing, and potentially taking action based on the metric and logging data from your entire Azure and on-premises environment. Which of the following would you recommend?
+
+- [x] Azure Monitor
+- [ ] Azure Advisor
+- [ ] Azure Insights
+- [ ] Azure Logs
+
+
+<details>
+  <summary>Explanation</summary>
+  <br/>
+    <p><b>Reference : </b><a href="https://docs.microsoft.com/en-ca/learn/modules/monitoring-fundamentals/2-identify-product-options">https://docs.microsoft.com/en-ca/learn/modules/monitoring-fundamentals/2-identify-product-options</a></p>
+  <br/>
+  <br/>
+  <table>
+        <tr>
+            <th>
+              <p>correct answer</p>
+              <p>Azure Monitor</p>
+            </th>
+        </tr>
+        <tr>
+            <td>Azure Monitor is the recommended solution for collecting, analyzing, and potentially taking action based on metric and logging data from the entire Azure and on-premises environment. It provides a comprehensive monitoring and analytics solution for resources in Azure and on-premises environments, allowing you to gain insights, detect issues, and take proactive actions based on the data collected.</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>Azure Advisor</th>
+        </tr>
+        <tr>
+            <td>Azure Advisor is a service that provides recommendations to optimize Azure resources for high availability, security, performance, and cost. It does not focus on collecting, analyzing, and taking action based on metric and logging data from the entire Azure and on-premises environment.</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>Azure Insights</th>
+        </tr>
+        <tr>
+            <td>Azure Insights is a service that provides application performance monitoring and diagnostics for applications hosted on Azure. It focuses on monitoring the performance and health of applications, rather than collecting, analyzing, and taking action based on metric and logging data from the entire Azure and on-premises environment.</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>Azure Logs</th>
+        </tr>
+        <tr>
+            <td>Azure Logs is a service that allows you to collect and store log data from various Azure resources for analysis and monitoring. While it is useful for logging, it does not provide the comprehensive solution for collecting, analyzing, and potentially taking action based on metric and logging data from the entire Azure and on-premises environment.</td>
+        </tr>
+    </table>
+  <table>
+        <tr>
+            <th>Overall explanation</th>
+        </tr>
+        <tr>
+            <td>
+              <p><a href="https://azure.microsoft.com/services/monitor/">Azure Monitor </a>is a platform for collecting, analyzing, visualizing, and potentially taking action based on the metric and logging data from your entire Azure and on-premises environment.</p>
+              <p>The following diagram illustrates just how comprehensive Azure Monitor is.</p>
+              <img src="https://github.com/user-attachments/assets/44f66f4d-feb9-4f6b-8db4-c25e9f3baabf" />
+              <ul>
+                <li>On the left is a list of the sources of logging and metric data that can be collected at every layer in your application architecture, from application to operating system and network.</li>
+                <li>In the center, you can see how the logging and metric data is stored in central repositories.</li>
+                <li>On the right, the data is used in a number of ways. You can view real-time and historical performance across each layer of your architecture, or aggregated and detailed information. The data is displayed at different levels for different audiences. You can view high-level reports on the Azure Monitor Dashboard or create custom views by using Power BI and Kusto queries.</li>
+              </ul>
+              <p>Additionally, you can use the data to help you react to critical events in real time, through alerts delivered to teams via SMS, email, and so on. Or you can use thresholds to trigger autoscaling functionality to scale up or down to meet the demand.</p>
+                  <p><b>Reference : </b><a href="https://docs.microsoft.com/en-ca/learn/modules/monitoring-fundamentals/2-identify-product-options">https://docs.microsoft.com/en-ca/learn/modules/monitoring-fundamentals/2-identify-product-options</a></p>
+            </td>
+        </tr>
+    </table>
+</details>
+
+---
+
+### Which of the following services provides a personalized view of the health of the Azure services, regions, and resources you rely on?
+
+- [ ] Azure Monitor
+- [ ] Azure Advisor
+- [x] Azure Service Health
+- [ ] Azure Resource Health
+
+
+<details>
+  <summary>Explanation</summary>
+  <br/>
+    <p><b>Reference : </b><a href="https://docs.microsoft.com/en-ca/learn/modules/monitoring-fundamentals/2-identify-product-options">https://docs.microsoft.com/en-ca/learn/modules/monitoring-fundamentals/2-identify-product-options</a></p>
+  <br/>
+  <br/>
+  <table>
+        <tr>
+            <th>Azure Monitor</th>
+        </tr>
+        <tr>
+            <td>Azure Monitor is a platform service that provides a comprehensive solution for collecting, analyzing, and acting on telemetry data from Azure and other sources. While it can provide insights into the performance and health of resources, it does not offer a personalized view like Azure Service Health.</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>Azure Advisor</th>
+        </tr>
+        <tr>
+            <td>Azure Advisor is a personalized guide to Azure best practices that analyzes your Azure usage and configurations to provide recommendations for improving security, performance, and cost efficiency. It does not specifically focus on providing a view of the health of Azure services and resources.</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>
+              <p>correct answer</p>
+              <p>Azure Service Health</p>
+            </th>
+        </tr>
+        <tr>
+            <td>Azure Service Health provides a personalized view of the health of Azure services, regions, and resources that you rely on. It offers proactive notifications and guidance when Azure service issues affect you.</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>Azure Resource Health</th>
+        </tr>
+        <tr>
+            <td>Azure Resource Health provides information about the current and past health of individual Azure resources. It does not offer a personalized view of the overall health of Azure services, regions, and resources.</td>
+        </tr>
+    </table>
+  <table>
+        <tr>
+            <th>Overall explanation</th>
+        </tr>
+        <tr>
+            <td>
+              <p><a href="https://azure.microsoft.com/features/service-health/">Azure Service Health</a> provides a personalized view of the health of the Azure services, regions, and resources you rely on. The status.azure.com website, which displays only major issues that broadly affect Azure customers, doesn't provide the full picture. But Azure Service Health displays both major and smaller, localized issues that affect you. Service issues are rare, but it's important to be prepared for the unexpected. You can set up alerts that help you triage outages and planned maintenance. After an outage, Service Health provides official incident reports, called root cause analyses (RCAs), which you can share with stakeholders.</p>
+              <p><b>Reference : </b><a href="https://docs.microsoft.com/en-ca/learn/modules/monitoring-fundamentals/2-identify-product-options">https://docs.microsoft.com/en-ca/learn/modules/monitoring-fundamentals/2-identify-product-options</a></p>
+            </td>
+        </tr>
+    </table>
+</details>
+
+---
 
 ## Domain : Describe Cloud Concepts
 
@@ -1107,50 +1416,38 @@ Would this meet the goal?
 
 ---
 
-### question
+### For industries that work with highly sensitive data, such as banking, finance, government, and healthcare, ___________ cloud may be their best cloud option.
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [x] Hybrid
+- [ ] Private
+- [ ] Public
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
+  <p><b>Reference : </b><a href="https://azure.microsoft.com/en-gb/overview/what-is-hybrid-cloud-computing/">https://azure.microsoft.com/en-gb/overview/what-is-hybrid-cloud-computing/</a></p>
   <br/>
   <br/>
   <table>
         <tr>
-            <th>Header 1</th>
+            <th>
+              <p>correct answer</p>
+              <p>Hybrid</p>
+            </th>
         </tr>
         <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
+            <td>Hybrid cloud combines the benefits of both private and public cloud models, allowing organizations to leverage the scalability and cost-effectiveness of public cloud services while maintaining sensitive data and critical workloads on-premises or in a private cloud environment. This hybrid approach provides flexibility, security, and compliance for industries like banking, finance, government, and healthcare that require a balance between security and agility.</td>
         </tr>
     </table>
     <table>
         <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
+            <th>Private</th>
         </tr>
     </table>
     <table>
         <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
+            <th>Public</th>
         </tr>
     </table>
   <table>
@@ -1159,124 +1456,8 @@ Would this meet the goal?
         </tr>
         <tr>
             <td>
-            </td>
-        </tr>
-    </table>
-</details>
-
----
-
-### question
-
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
-
-
-<details>
-  <summary>Explanation</summary>
-  <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
-</details>
-
----
-
-### question
-
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
-
-
-<details>
-  <summary>Explanation</summary>
-  <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
+              For industries that work with highly sensitive data, such as banking, finance, government, and healthcare, hybrid may be their best cloud option. For example, some regulated industries require certain types of data to be stored on-premises while allowing less sensitive data to be stored on the cloud. In this kind of hybrid cloud architecture, organizations gain the flexibility of the public cloud for less regulated computing tasks, while still meeting their industry requirements.
+              <p><b>Reference : </b><a href="https://azure.microsoft.com/en-gb/overview/what-is-hybrid-cloud-computing/">https://azure.microsoft.com/en-gb/overview/what-is-hybrid-cloud-computing/</a></p>
             </td>
         </tr>
     </table>
