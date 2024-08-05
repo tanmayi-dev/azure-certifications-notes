@@ -2281,59 +2281,49 @@
 
 ### 43 . _______ is capable of sending encrypted traffic between an Azure virtual network and an on-premises location over the public Internet.
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [x] A&nbsp;VPN&nbsp;Gateway
+- [ ] An Application Gateway
+- [ ] Network Security Group (NSG)
+- [ ] A Firewall
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div
+                data-purpose="safely-set-inner-html:rich-text-viewer:html"
+                class="ud-text-md rt-scaffolding"
+                id="overall-explanation"
+              >
+                <p><strong>From the official documentation:</strong></p>
+                <p><br /></p>
+                <p>
+                  A <strong>VPN gateway </strong>is a specific type of virtual
+                  network gateway that is used to send encrypted traffic between
+                  an Azure virtual network and an on-premises location over the
+                  public Internet. You can also use a VPN gateway to send
+                  encrypted traffic between Azure virtual networks over the
+                  Microsoft network. Each virtual network can have only one VPN
+                  gateway. However, you can create multiple connections to the
+                  same VPN gateway. When you create multiple connections to the
+                  same VPN gateway, all VPN tunnels share the available gateway
+                  bandwidth.
+                </p>
+                <p><br /></p>
+                <p>
+                  <img
+                    src="https://github.com/user-attachments/assets/5329d2d6-0ce4-4410-9e44-56ddcdb8eeec"
+                  />
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>Reference&nbsp;: </strong
+                  ><a
+                    href="https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways"
+                    >https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
