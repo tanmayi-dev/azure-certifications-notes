@@ -2328,1005 +2328,791 @@
 
 ---
 
-### question
+### 44 . Yes or No: Every Azure region is composed of a set of datacenters.
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [ ] No
+- [x] Yes
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p>
+                  A region is a set of <strong>datacenters</strong> deployed
+                  within a latency-defined perimeter and connected through a
+                  dedicated regional low-latency network. Each Azure region has
+                  a minimum of <code><strong>three</strong></code> availability
+                  zones.
+                </p>
+                <p><br /></p>
+                <img
+                  src="https://github.com/user-attachments/assets/bd3fc975-c19a-4f32-a817-16681592ba6f"
+                />
+                <img
+                  src="https://github.com/user-attachments/assets/6e5c74e8-43a5-4606-8452-ae4137351c67"
+                />
+                <img
+                  src="https://github.com/user-attachments/assets/e42c0ee8-572b-4fb5-ba93-7bdefeaefc88"
+                  />
+                <p><br /></p>
+                <p>
+                  <strong>Reference</strong>:
+                  <a
+                    href="https://azure.microsoft.com/en-us/global-infrastructure/"
+                    >https://azure.microsoft.com/en-us/global-infrastructure/</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 45 . In the context of Azure subscriptions, what does an Azure free trial subscription provide? (Select all that apply)
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [x] Access to a number of Azure products free for 12 months
+- [x] Credit to spend within the first 30 days of sign-up
+- [x] Access to more than 25 products that are always free
+- [ ] Unlimited access to all Azure services
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p>
+                  <strong
+                    >Access to a number of Azure products free for 12 months - </strong
+                  >This is correct because an Azure free trial subscription
+                  provides access to several Azure products for free during the
+                  first 12 months.
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong
+                    >Credit to spend within the first 30 days of sign-up
+                    -</strong
+                  >
+                  This is correct as the Azure free trial subscription offers
+                  credit to spend within the first 30 days after sign-up, which
+                  allows users to explore and use various Azure services during
+                  that period.
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>Unlimited access to all Azure services - </strong>This
+                  is incorrect because the Azure free trial subscription does
+                  not provide unlimited access to all Azure services. It offers
+                  a limited set of free services, usage allowances, and credits
+                  to spend within a specified timeframe.
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong
+                    >Access to more than 25 products that are always free - </strong
+                  >This is correct because, in addition to the free services
+                  available during the trial period, the Azure free trial
+                  subscription provides access to more than 25 products that are
+                  always free, based on resource and region availability. These
+                  products can be used without any additional costs even after
+                  the trial period is over.
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>Reference:</strong>&nbsp;<a
+                    href="https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/2-describe-factors-affect-costs-azure"
+                    >https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/2-describe-factors-affect-costs-azure</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 46 . True or False: Each Azure Subscription can trust multiple Active Directories
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [ ] True
+- [x] False
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p><strong>From the official Azure docs:</strong></p>
+                <p><br /></p>
+                <p>
+                  An Azure subscription has a trust relationship with Azure
+                  Active Directory (Azure AD). A subscription trusts Azure AD to
+                  authenticate users, services, and devices.
+                </p>
+                <p>
+                  <strong
+                    >Multiple subscriptions can trust the same Azure AD
+                    directory. Each subscription can only trust a single
+                    directory.</strong
+                  >
+                </p>
+                <p><br /></p>
+                <p>
+                  <img
+                    src="https://github.com/user-attachments/assets/ff295b56-fd44-4410-b70a-dd7306dc878c"
+                  />
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>References:</strong>
+                  <a
+                    href="https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory"
+                    >https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 47 . Which of the following requires the greatest security effort on your part?
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [ ] Software as a service (Saas)
+- [ ] Platform as a service (Paas)
+- [ ] Database as a service&nbsp;(Daas)
+- [x] Infrastructure as a service (Iaas)
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div
+                data-purpose="safely-set-inner-html:rich-text-viewer:html"
+                class="ud-text-md rt-scaffolding"
+                id="overall-explanation"
+              >
+                <p>
+                  <strong>IaaS (Infrastructure as a Service)</strong> is, in
+                  effect, where a cloud provider hosts the infrastructure
+                  components traditionally present in an on-premises data center
+                  including servers (operating systems), storage and networking
+                  hardware as well as the virtualization or hypervisor layer.
+                </p>
+                <p>
+                  From a security perspective, this offering is probably the
+                  <strong>closest</strong> to traditional in-house IT
+                  infrastructure, (Indeed, many companies will effectively move
+                  existing server payloads to IaaS either partially or
+                  completely resulting in a hybrid solution.) and it will
+                  require much of the same security tools as a result.
+                </p>
+                <p><br /></p>
+    <img
+                  src="https://github.com/user-attachments/assets/0028428d-8f90-4962-a421-9baf21083e71"
+                />
+                <p><br /></p>
+                <p>
+                  <strong>Reference :&nbsp;</strong
+                  ><a
+                    href="https://www.tripwire.com/state-of-security/security-data-protection/cloud/secure-configuration-cloud-iaas-paas-saas/"
+                    >https://www.tripwire.com/state-of-security/security-data-protection/cloud/secure-configuration-cloud-iaas-paas-saas/</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 48 . Where can you obtain up-to-date details about the personal data Microsoft processes, how it processes it and for what purposes?
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [ ] Azure Knowledge Center
+- [ ] Compliance Manager
+- [ ] Azure Trust Center
+- [x] Microsoft Privacy Statement
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div
+                data-purpose="safely-set-inner-html:rich-text-viewer:html"
+                class="ud-text-md rt-scaffolding"
+                id="overall-explanation"
+              >
+                <p>
+                  <a href="https://privacy.microsoft.com/en-ca/privacystatement"
+                    >This</a
+                  >
+                  privacy statement explains the personal data Microsoft
+                  processes, how Microsoft processes it, and for what purposes.
+                </p>
+                <p><br /></p>
+                <p>
+                  Microsoft offers a wide range of products, including server
+                  products used to help operate enterprises worldwide, devices
+                  you use in your home, software that students use at school,
+                  and services developers use to create and host what’s next.
+                  References to Microsoft products in
+                  <a href="https://privacy.microsoft.com/en-ca/privacystatement"
+                    >this</a
+                  >
+                  statement include Microsoft services, websites, apps,
+                  software, servers, and devices.
+                </p>
+                <p>
+                  Please read the <strong>product-specific details</strong> in
+                  <a href="https://privacy.microsoft.com/en-ca/privacystatement"
+                    >this</a
+                  >
+                  privacy statement, which provide additional relevant
+                  information. This statement applies to the interactions
+                  Microsoft has with you and the Microsoft products listed
+                  below, as well as other Microsoft products that display this
+                  statement.
+                </p>
+                <p><br /></p>
+                <img
+                  src="https://github.com/user-attachments/assets/24b1bb08-b50f-4f79-adf4-df55c9b0ce55"/>
+                <p><br /></p>
+                <p>
+                  <strong>Reference: </strong
+                  ><a
+                    href="https://privacy.microsoft.com/en-ca/privacystatement"
+                    >https://privacy.microsoft.com/en-ca/privacystatement</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 49 . Your organization has deployed a Virtual Machine in Azure with the Standard_D2s_v3 VM size. The Virtual Machine is running a resource-intensive workload, and you want to optimize costs. Which of the following could be an effective way to achieve this?
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [x] Enable automatic scaling to adjust VM size based on workload
+- [ ] Use a smaller VM size to reduce costs
+- [ ] Use a larger VM size to improve performance
+- [ ] Use a different Azure region with lower VM pricing.
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p>
+                  The correct answer is
+                  <strong
+                    >'Enable automatic scaling to adjust VM size based on
+                    workload'</strong
+                  >
+                  as it could be an effective way to optimize costs for the
+                  Virtual Machine in Azure. Automatic scaling allows you to
+                  automatically adjust the number of Virtual Machine instances
+                  and the size of the instances based on demand, which can help
+                  you save costs by avoiding overprovisioning.
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>Using a larger VM size :</strong>&nbsp;This would
+                  increase costs as its more expensive to use a larger
+                  VM&nbsp;size.
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>Using a smaller VM size:&nbsp;</strong>This could
+                  reduce performance and may not be suitable for a
+                  resource-intensive workload.
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong
+                    >Using a different Azure region with lower VM
+                    pricing:</strong
+                  >&nbsp;This may not be a practical solution if the workload
+                  requires a specific region for compliance or latency reasons.
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 50 . How is the cost of network traffic in Azure affected?
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [ ] By resource type
+- [ ] By the number of users
+- [x] By geography
+- [ ] By the type of subscription
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p>
+                  The cost of network traffic in Azure is affected by
+                  <strong>geography</strong>. Data transfer costs can vary
+                  depending on the zones, which are geographical groupings of
+                  Azure regions for billing purposes. The cost of moving data
+                  within a region or between regions can differ, impacting the
+                  overall cost of network traffic.
+                </p>
+                <p><br /></p>
+                <p><strong>Other options - </strong></p>
+                <p><br /></p>
+                <p>
+                  <strong>By the number of users: </strong>While the number of
+                  users may affect the overall amount of network traffic, the
+                  cost is not directly determined by the number of users.
+                  Instead, it is determined by the amount of data transferred
+                  and the geographical zones involved.
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>By resource type: </strong>The cost of network traffic
+                  is related to the amount of data transferred and the zones
+                  involved, not the specific Azure resources being used. While
+                  the type of resources may have an impact on the amount of data
+                  transferred, the cost of network traffic itself is not
+                  directly influenced by the resource type.
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>By the type of subscription: </strong>The type of
+                  subscription may affect the overall cost of Azure services,
+                  including usage allowances, but it doesn't directly determine
+                  the cost of network traffic. Network traffic costs are
+                  determined by the amount of data transferred and the
+                  geographical zones involved.
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>Reference: </strong
+                  ><a
+                    href="https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/2-describe-factors-affect-costs-azure"
+                    >https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/2-describe-factors-affect-costs-azure</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 51 . Select the valid types of storage tiers for Azure Blob Storage?
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [ ] Deep Sleep Tier
+- [ ] Infrequently Accessed Tier
+- [x] Archive Storage Tier
+- [x] Hot Tier
+- [x] Cold Tier
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p>
+                  Azure storage offers different access tiers, which allow you
+                  to store blob object data in the most cost-effective manner.
+                  The available access tiers include:
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>1) Hot</strong> <strong>Storage</strong>- Optimized
+                  for storing data that is accessed frequently.
+                </p>
+                <p>
+                  <strong>2) Cool</strong> <strong>Storage</strong>- Optimized
+                  for storing data that is infrequently accessed and stored for
+                  at least 30 days.
+                </p>
+                <p>
+                  <strong>3) Archive</strong> <strong>Storage</strong>-
+                  Optimized for storing data that is rarely accessed and stored
+                  for at least 180 days with flexible latency requirements (on
+                  the order of hours).
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>Reference :</strong
+                  ><a
+                    href="https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-storage-tiers?tabs=azure-portal"
+                  >
+                    https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-storage-tiers?tabs=azure-portal</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 52 . Yes or No: It's possible to deploy an Azure VM&nbsp;from an Ubuntu system by using PowerShell in the Cloud Shell.
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [x] Yes
+- [ ] No
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div
+                data-purpose="safely-set-inner-html:rich-text-viewer:html"
+                class="ud-text-md rt-scaffolding"
+                id="overall-explanation"
+              >
+                <p>
+                  <strong>Tip:</strong> Most such questions mentioning Operating
+                  Systems (Ubuntu, Linux, Windows, MacOS) are to create
+                  confusion. If you can open a browser - you can access the
+                  Cloud Shell which gives you access to Bash or PowerShell.
+                </p>
+                <p><br /></p>
+                <p>
+                  Azure Cloud Shell is an interactive, authenticated,
+                  browser-accessible shell for managing Azure resources. It
+                  provides the flexibility of choosing the shell experience that
+                  best suits the way you work, either
+                  <strong>Bash or PowerShell.</strong>
+                </p>
+                <p><br /></p>
+                <p>
+                  <img
+                    src="https://github.com/user-attachments/assets/742c5cbf-ae45-4956-a5ab-243f439adde0"
+                  />
+                </p>
+                <p><br /></p>
+                <p>
+                  <img
+                    src="https://github.com/user-attachments/assets/6aa0e436-18cd-4c48-9b80-b80c5ea06287"
+                  />
+                </p>
+                <p><br /></p>
+                <p>
+                 <img
+                    src="https://github.com/user-attachments/assets/bac4bd72-4ac2-4879-bdd5-8725f118b26b"
+                  />
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>Reference: </strong
+                  ><a
+                    href="https://docs.microsoft.com/en-us/azure/cloud-shell/overview"
+                    >https://docs.microsoft.com/en-us/azure/cloud-shell/overview</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 53 . Suppose the lead architect in your company has asked your team to implement a PaaS based solution in Azure for a quick Proof-of-Concept (POC) to senior management. One of your colleagues goes ahead and creates an Azure Event Hubs and Azure Blob&nbsp;Storage.
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+### Would you agree with this implementation?
+
+- [x] Yes
+- [ ] No
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p>
+                  Yes, both of these services fall under the PaaS&nbsp;category,
+                  and therefore meet our requirements!
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 54 . Yes or No: The private preview phase for a service includes formal support
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [x] No
+- [ ] Yes
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p>
+                  <strong>No</strong>. Private is a phase when Azure invites a
+                  few customers to take part in early access to new concepts and
+                  features.
+                  <strong
+                    >This phase does not include formal support.&nbsp;</strong
+                  >
+                  It is not available to the general public as well.
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>Reference:</strong
+                  ><a
+                    href="https://azure.microsoft.com/en-ca/support/legal/preview-supplemental-terms/"
+                  >
+                    https://azure.microsoft.com/en-ca/support/legal/preview-supplemental-terms/</a
+                  >
+                </p>
+                <p><br /></p>
+              </div>
 </details>
 
 ---
 
-### question
+### 55 . Suppose the lead architect in your company has asked your team to implement a PaaS based solution in Azure for a quick Proof-of-Concept (POC) to senior management. One of your colleagues goes ahead and creates an Azure SQL&nbsp;Database and an Azure Load Balancer.
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+### Would you agree with this implementation?
+
+- [x] No
+- [ ] Yes
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p>Tricky question!</p>
+                <p><br /></p>
+                <p>
+                  <strong>Platform as a service (PaaS)</strong> is a complete
+                  development and deployment environment in the cloud. PaaS
+                  includes infrastructure as servers, storage, and networking,
+                  but also middleware, development tools, business intelligence
+                  (BI) services, database management systems, and more.
+                </p>
+                <p><br /></p>
+                <p>
+                  Azure SQL&nbsp;Databases are PaaS, that's fine.
+                  <strong>BUT:</strong>
+                </p>
+                <p><br /></p>
+                <p><strong>Azure Load Balancers are IaaS not PaaS!</strong></p>
+                <p><br /></p>
+                <p>
+                  <strong>References: </strong
+                  ><a
+                    href="https://azure.microsoft.com/en-us/overview/what-is-paas/"
+                    >https://azure.microsoft.com/en-us/overview/what-is-paas/</a
+                  >
+                </p>
+                <p>
+                  <a
+                    href="https://docs.microsoft.com/en-us/answers/questions/221143/azure-storage-account-is-iaas-or-paas.html"
+                    >https://docs.microsoft.com/en-us/answers/questions/221143/azure-storage-account-is-iaas-or-paas.html</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 56 . True or False: In a Private Preview, Azure invites all customers to take part in early access to new concepts and features.
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [x] False
+- [ ] True
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p><strong>From the official documentation:</strong></p>
+                <p><br /></p>
+                <p>
+                  <strong>Private Preview -</strong> During this phase we invite
+                  a few customers to take part in early access to new concepts
+                  and features. This phase
+                  <strong>DOES&nbsp;NOT</strong> include formal support.
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>Reference:</strong
+                  ><a
+                    href="https://azure.microsoft.com/en-ca/support/legal/preview-supplemental-terms/"
+                    >https://azure.microsoft.com/en-ca/support/legal/preview-supplemental-terms/</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 57 . Which Azure Service allows you to create, assign and manage policies to enforce different rules and stay compliant with your Service Level Agreements (SLAs)?
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [x] Azure Policy
+- [ ] Azure Trust Portal
+- [ ] Azure Blueprints
+- [ ] Azure Security Center
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p>
+                  <strong>Azure Policy</strong> helps to enforce organizational
+                  standards and to assess compliance at-scale. Through its
+                  compliance dashboard, it provides an aggregated view to
+                  evaluate the overall state of the environment, with the
+                  ability to drill-down to the per-resource, per-policy
+                  granularity. It also helps to bring your resources to
+                  compliance through bulk remediation for existing resources and
+                  automatic remediation for new resources.
+                </p>
+                <p>
+                  Common use cases for Azure Policy include implementing
+                  <strong>governance </strong>for resource consistency,
+                  regulatory compliance, security, cost, and management. Policy
+                  definitions for these common use cases are already available
+                  in your Azure environment as built-ins to help you get
+                  started.
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>References : </strong
+                  ><a
+                    href="https://docs.microsoft.com/en-us/azure/governance/policy/overview"
+                    >https://docs.microsoft.com/en-us/azure/governance/policy/overview&nbsp;</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 58 . _______________ enables a user to log in one time and use that credential to access multiple resources and applications from different providers.
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [ ] Passwordless
+- [x] Single Sign On (SSO)
+- [ ] Multi-factor Authentication (MFA)
+- [ ] Domain Name Service (DNS)
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p><strong>From the Official Azure Documentation: </strong></p>
+                <p><br /></p>
+                <p>
+                  SSO enables you to remember only one username and one password
+                  to access multiple applications. A single identity is tied to
+                  a user, which simplifies the security model. As users change
+                  roles or leave an organization, access modifications are tied
+                  to that identity, which greatly reduces the effort needed to
+                  change or disable accounts.
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>Reference: </strong
+                  ><a
+                    href="https://docs.microsoft.com/en-ca/learn/modules/secure-access-azure-identity-services/3-what-is-azure-active-directory"
+                    >https://docs.microsoft.com/en-ca/learn/modules/secure-access-azure-identity-services/3-what-is-azure-active-directory</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 59 . Which of the following is a great place to start when examining the security of your Azure-based solutions and provides threat protection across all of your services both in Azure, and on-premises?
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
-
+- [x] Azure Security Center
+- [ ] Azure Compliance Manager
+- [ ] Azure Advanced Threat Protection
+- [ ] Azure Trust Center
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div
+                data-purpose="safely-set-inner-html:rich-text-viewer:html"
+                class="ud-text-md rt-scaffolding"
+                id="overall-explanation"
+              >
+                <p>
+                  A great place to start when examining the security of your
+                  Azure-based solutions is
+                  <strong>Azure Security Center</strong>. Security Center is a
+                  monitoring service that provides threat protection across all
+                  of your services both in Azure, and on-premises.
+                  <strong>Security Center can:</strong>
+                </p>
+                <p><br /></p>
+                <p>
+                  1) Provide security recommendations based on your
+                  configurations, resources, and networks.
+                </p>
+                <p>
+                  2) Monitor security settings across on-premises and cloud
+                  workloads, and automatically apply
+                </p>
+                <p>required security to new services as they come online.</p>
+                <p>
+                  3) Continuously monitor all your services, and perform
+                  automatic security assessments to
+                </p>
+                <p>
+                  identify potential vulnerabilities before they can be
+                  exploited.
+                </p>
+                <p>
+                  4) Use machine learning to detect and block malware from being
+                  installed on your virtual
+                </p>
+                <p>
+                  machines and services. You can also define a list of allowed
+                  applications to ensure that only
+                </p>
+                <p>the apps you validate are allowed to execute.</p>
+                <p>
+                  5) Analyze and identify potential inbound attacks, and help to
+                  investigate threats and any post-
+                </p>
+                <p>breach activity that might have occurred.</p>
+                <p><br /></p>
+                <p>
+                  <img
+                    src="https://github.com/user-attachments/assets/b330a23a-0c7b-4edd-98e8-0eb8b212d0e6"
+                  />
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>Reference:</strong>
+                  <a
+                    href="https://docs.microsoft.com/en-us/azure/security-center/security-center-recommendations"
+                    >https://docs.microsoft.com/en-us/azure/security-center/security-center-recommendations</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 60 . Is data transfer between Azure services located in two regions free?
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [ ] Yes
+- [x] No
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p>
+                  Outbound data transfer is charged at the normal rate and
+                  inbound data transfer is free.
+                </p>
+                <p><br /></p>
+                <img src="https://github.com/user-attachments/assets/f03b61f2-8f28-450a-adc2-9b4c8c1f5319"/>
+                <img src="https://github.com/user-attachments/assets/a57a60aa-1219-41fb-9f28-7ae282cefb48"/>
+               <img src="https://github.com/user-attachments/assets/9389a78a-3b41-400e-a6ed-d867012f5146"/>
+                <p><br /></p>
+                <p>
+                  <strong>References</strong>:
+                  <a
+                    href="https://azure.microsoft.com/en-us/global-infrastructure/regions/ https://azure.microsoft.com/en-us/pricing/details/bandwidth/"
+                    >https://azure.microsoft.com/en-us/global-infrastructure/regions/
+                    https://azure.microsoft.com/en-us/pricing/details/bandwidth/</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
