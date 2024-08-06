@@ -3117,187 +3117,166 @@
 
 ---
 
-### question
+### 61 . Azure _____________ are unique physical buildings—located all over the globe—that house a group of networked computer servers.
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [x] Datacenters
+- [ ] Geographies
+- [ ] Regions
+- [ ] Availability Zones
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p><strong>From the official Azure docs:</strong></p>
+                <p><br /></p>
+                <p>
+                  Azure datacentres are unique physical buildings—located all
+                  over the globe—that house a group of networked computer
+                  servers.
+                </p>
+                <p><br /></p>
+                <p>
+                  <img
+                    src="https://github.com/user-attachments/assets/be11b1df-2a6c-4973-b6d9-f2e807a1fb44"
+                  />
+                  <img
+                    src="https://github.com/user-attachments/assets/ffb36118-904e-4027-ae80-ef0991da856b"
+                  />
+                  <img
+                    src="https://github.com/user-attachments/assets/62e7cf90-ed27-4db0-9cad-b6b17112b616"
+                  />
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>References:</strong>
+                  <a
+                    href="https://azure.microsoft.com/en-gb/global-infrastructure/regions/"
+                    >https://azure.microsoft.com/en-gb/global-infrastructure/regions/</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 62 . Yes or No: Azure guarantees 99.99% availability for the Free version of the Azure Active Directory (AAD).
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [x] No
+- [ ] Yes
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p><strong>From the official documentation:</strong></p>
+                <p><br /></p>
+                <img
+                  src="https://github.com/user-attachments/assets/87f1347f-94ca-4f2f-b370-3c28cf07b365"
+                />
+                <p><br /></p>
+                <p>
+                  Note from the above image that
+                  <strong
+                    >NO&nbsp;SLA&nbsp;is provided for the FREE tier</strong
+                  >
+                  of the Azure Active Directory!
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>Reference :&nbsp;</strong
+                  ><a
+                    href="https://azure.microsoft.com/en-us/support/legal/sla/active-directory/v1_1/"
+                    >https://azure.microsoft.com/en-us/support/legal/sla/active-directory/v1_1/</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 63 . True or False: Azure Active Directory can restrict access attempts to only those coming from known devices.
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [ ] False
+- [x] True
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p><strong>From the Official Azure Documentation: </strong></p>
+                <p><br /></p>
+                <p>Azure AD provides services such as:</p>
+                <p><br /></p>
+                <ul>
+                  <li>
+                    <p><strong>Authentication</strong></p>
+                    <p>
+                      This includes verifying identity to access applications
+                      and resources. It also includes providing functionality
+                      such as self-service password reset, multifactor
+                      authentication, a custom list of banned passwords, and
+                      smart lockout services.
+                    </p>
+                    <p><br /></p>
+                  </li>
+                  <li>
+                    <p><strong>Single sign-on</strong></p>
+                    <p>
+                      SSO enables you to remember only one username and one
+                      password to access multiple applications. A single
+                      identity is tied to a user, which simplifies the security
+                      model. As users change roles or leave an organization,
+                      access modifications are tied to that identity, which
+                      greatly reduces the effort needed to change or disable
+                      accounts.
+                    </p>
+                    <p><br /></p>
+                  </li>
+                  <li>
+                    <p><strong>Application management</strong></p>
+                    <p>
+                      You can manage your cloud and on-premises apps by using
+                      Azure AD. Features like Application Proxy, SaaS apps, the
+                      My Apps portal (also called the <em>access panel</em>),
+                      and single sign-on provide a better user experience.
+                    </p>
+                    <p><br /></p>
+                  </li>
+                  <li>
+                    <p><strong>Device management</strong></p>
+                    <p>
+                      Along with accounts for individual people, Azure AD
+                      supports the registration of devices. Registration enables
+                      devices to be managed through tools like Microsoft Intune.
+                      It also allows for device-based Conditional Access
+                      policies to restrict access attempts to only those coming
+                      from known devices, regardless of the requesting user
+                      account.
+                    </p>
+                  </li>
+                </ul>
+                <p><br /></p>
+                <p>
+                  <strong>Reference: </strong
+                  ><a
+                    href="https://docs.microsoft.com/en-ca/learn/modules/secure-access-azure-identity-services/3-what-is-azure-active-directory"
+                    >https://docs.microsoft.com/en-ca/learn/modules/secure-access-azure-identity-services/3-what-is-azure-active-directory</a
+                  >
+                </p>
+                <p><br /></p>
+              </div>
 </details>
 
 ---
 
-### question
+### 64 . Yes or No: When you cancel an Azure Subscription, your resources are immediately deleted permanently to free up space.
 
-- [ ] option 1
-- [ ] option 2
+- [ ] Yes
+- [x] No
 - [ ] option 3
 - [ ] option 4
 
@@ -3305,109 +3284,87 @@
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p><strong>From the official Azure Docs:</strong></p>
+                <p><br /></p>
+                <p>
+                  When you
+                  <a
+                    href="https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/cancel-azure-subscription#what-happens-after-subscription-cancellation"
+                    >cancel an Azure subscription</a
+                  >:
+                </p>
+                <p><br /></p>
+                <ul>
+                  <li>
+                    <p>
+                      A resource lock doesn't block the subscription
+                      cancellation.
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      Azure preserves your resources by deactivating them
+                      instead of immediately deleting them.
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      Azure only deletes your resources permanently after a
+                      waiting period.
+                    </p>
+                  </li>
+                </ul>
+                <p><br /></p>
+                <p>
+                  <strong>Reference: </strong
+                  ><a
+                    href="https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources"
+                    >https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
 
-### question
+### 65 . Which of the following services can facilitate the deploymentand scaling of containers?
 
-- [ ] option 1
-- [ ] option 2
-- [ ] option 3
-- [ ] option 4
+- [ ] Azure Active Directory
+- [x] Azure Kubernetes
+- [ ] Azure Cognitive Services
+- [ ] Azure Logic Apps
 
 
 <details>
   <summary>Explanation</summary>
   <br/>
-  <a href=""></a>
-  <br/>
-  <br/>
-  <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>Header 1</th>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-        </tr>
-    </table>
-  <table>
-        <tr>
-            <th>Overall explanation</th>
-        </tr>
-        <tr>
-            <td>
-            </td>
-        </tr>
-    </table>
+  <div>
+                <p><strong>From the official Azure documentation:</strong></p>
+                <p><br /></p>
+                <p>
+                  <strong>Azure Kubernetes Service (AKS)</strong> offers the
+                  quickest way to start developing and deploying cloud-native
+                  apps, with built-in code-to-cloud pipelines and guardrails.
+                  Get unified management and governance for on-premises, edge,
+                  and multicloud Kubernetes clusters. Interoperate with Azure
+                  security, identity, cost management, and migration services.
+                </p>
+                <p><br /></p>
+                <p><br /></p>
+                <p><img
+                    src="https://github.com/user-attachments/assets/8bd5a4ea-4e6f-4636-9ad1-7cee75451597"
+                  />
+                </p>
+                <p><br /></p>
+                <p>
+                  <strong>Reference : </strong
+                  ><a
+                    href="https://azure.microsoft.com/en-us/services/kubernetes-service/"
+                    >https://azure.microsoft.com/en-us/services/kubernetes-service/</a
+                  >
+                </p>
+              </div>
 </details>
 
 ---
